@@ -7,7 +7,7 @@
 }
 
 .header-btn {
-  @apply ml-2 shadow-sm shadow-indigo-600 py-1 px-3 border-2 rounded-full border-indigo-600 text-indigo-600 hover:text-white hover:bg-indigo-800 transition-all focus:outline-none focus:ring focus:ring-violet-300;
+  @apply ml-2 py-1 px-3 border-2 rounded-full border-indigo-600 text-indigo-600 hover:text-white hover:bg-indigo-800 transition-all focus:outline-none focus:ring focus:ring-violet-300;
 }
 
 @layer components {
